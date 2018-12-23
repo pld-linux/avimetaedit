@@ -1,0 +1,18 @@
+--- avimetaedit/Project/GNU/GUI/Makefile.am.orig	2018-05-09 14:03:00.000000000 +0200
++++ avimetaedit/Project/GNU/GUI/Makefile.am	2018-12-23 16:14:13.332767131 +0100
+@@ -12,7 +12,6 @@
+     ../../../Source/GUI/Qt/GUI_Main_Core_Text.cpp \
+     ../../../Source/GUI/Qt/GUI_Main_Menu.cpp \
+     ../../../Source/GUI/Qt/GUI_Main_Output_Log.cpp \
+-    ../../../Source/GUI/Qt/GUI_Main_Output_stderr.cpp \
+     ../../../Source/GUI/Qt/GUI_Main_Output_Trace.cpp \
+     ../../../Source/GUI/Qt/GUI_Main_Technical_Table.cpp \
+     ../../../Source/GUI/Qt/GUI_Main_Technical_Text.cpp \
+@@ -85,7 +84,6 @@
+     _Automated/moc_GUI_Main_Core_Table.cpp \
+     _Automated/moc_GUI_Main_Core_Text.cpp \
+     _Automated/moc_GUI_Main_Output_Log.cpp \
+-    _Automated/moc_GUI_Main_Output_stderr.cpp \
+     _Automated/moc_GUI_Main_Output_Trace.cpp \
+     _Automated/moc_GUI_Main_UndoDialog.cpp \
+     _Automated/moc_GUI_Main_xxxx__Common.cpp \
