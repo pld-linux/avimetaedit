@@ -58,7 +58,7 @@ Microsoftu i IBM-a.
 
 %prep
 %setup -q -n avimetaedit
-%patch0 -p1
+%patch -P0 -p1
 %undos *.html *.txt Release/*.txt
 chmod 644 *.html *.txt Release/*.txt
 
