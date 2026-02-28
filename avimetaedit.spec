@@ -3,7 +3,7 @@ Summary:	Embed, validate and export AVI files metadata
 Summary(pl.UTF-8):	Osadzanie, sprawdzanie i eksport metadanych z plików AVI
 Name:		avimetaedit
 Version:	1.0.2
-Release:	1
+Release:	2
 License:	CC0 1.0 (Public Domain)
 Group:		Applications/Multimedia
 Source0:	https://mediaarea.net/download/source/avimetaedit/%{version}/%{name}_%{version}.tar.xz
